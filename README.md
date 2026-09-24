@@ -1,6 +1,6 @@
 # WhatsApp Business Webhook API
 
-API Node.js pronta para produção para receber webhooks do WhatsApp Business, gerar resposta com Gemini e enviar mensagens de volta pelo Graph API.
+API Node.js para receber webhooks do WhatsApp Business, gerar resposta com Gemini e enviar mensagens de volta pelo Graph API.
 
 ## Requisitos
 
