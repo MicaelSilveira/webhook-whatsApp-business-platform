@@ -40,7 +40,7 @@ npm run dev
 - `POST /` - recebimento do webhook do WhatsApp
 - `POST /api/messages` - envio manual de mensagens (JWT obrigatório)
 
-## Observações de produção
+## Observações
 
 - A rota `POST /` valida assinatura `x-hub-signature-256` com `META_APP_SECRET`.
 - A rota `POST /api/messages` exige JWT Bearer token.
